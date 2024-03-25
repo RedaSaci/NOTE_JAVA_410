@@ -6,3 +6,4 @@ mon github pour le cours de java
 git add * 
 git commit -m "mon message"
 git push origin main 
+//test pour modifier depuis github et envoyer dans le navigateur 
